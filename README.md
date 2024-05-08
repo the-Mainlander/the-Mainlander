@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhruva and I'm a Software Engineer from Bengaluru, India.</h2>
+<h2 align="left">Hi 👋! My name is Dhruva and I'm a Fullstack Developer from Bengaluru, India.</h2>
 
 ###
 
